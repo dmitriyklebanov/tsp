@@ -1,0 +1,6 @@
+bin/
+test_sets/**/inputs/**
+test_sets/**/outputs/**
+test_sets/**/plots/**
+
+!test_sets/main/**
